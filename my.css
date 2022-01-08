@@ -1,0 +1,1003 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&family=Fjalla+One&family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.regions-banner{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+    
+}
+.banner-content{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.banner-content h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    
+}
+.banner-content p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+        
+}
+.regions-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #555555;
+  
+
+}
+.identi-banner{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.identi-content{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.identi-content h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    
+}
+.identi-content p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+        
+}
+.identi-body p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+}
+.identy-card .card{
+    height: 280px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+}
+.identy-card .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #555555;
+}
+/*about*/
+
+.about-banner{
+    height: 563px;
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+   
+}
+.about-banner h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 75px;
+    color: #FFFFFF;
+
+}
+.about-banner p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    position: relative;
+}
+.about-banner p::after{
+    position: absolute;
+    content: "";
+    margin-top: 30px;
+    width: 120px;
+    border: 1px solid white;
+    margin-right: 100px;
+    
+  
+}
+.about-content{
+    margin-top: -260px;
+}
+.about-content h4{
+    font-family: Fjalla One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+.about-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.about-content a{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    background:  #452387;;
+
+}
+.mission-vision .mission img{
+    height: 63px;
+    width: 72px;
+    
+
+}
+.mission-vision .mission {
+    width: 186px;
+    height: 186px;
+    background: #F2F2F2;
+    line-height: 186px;
+}
+.mission-vision  h4{
+    font-family: Fjalla One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    color: #555555;
+    
+}
+.mission-vision  p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #787878;
+}
+.mission-vision .vision img{
+    height: 63px;
+    width: 72px;
+    
+
+}
+.mission-vision .vision {
+    width: 186px;
+    height: 186px;
+    background: #F2F2F2;
+    line-height: 186px;
+}
+.pointer img{
+    height: 30px;
+    width: 29.999998092651367px;
+    position: absolute;
+    
+}
+.pointer p{
+    position: relative;
+    padding-left: 80px;
+    
+}
+/*contact page*/
+.contact-header{
+    height: 808px;
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.contact-banner p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.contact-banner h2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+.contact-about h4{
+    font-family: Fjalla One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+.contact-about p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #352a2a;
+}
+.contact-page .card{
+    margin-top: -80px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 20px -7px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    border: none;
+}
+.contact-page .card p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #333333;
+}
+.contact-page .card input{
+    outline: none;
+    
+}
+.contact-page .card label{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+    color: #333333;
+    
+}
+.contact-page .card a{
+    background: #6B438A;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 30px;
+    
+}
+/* marketing*/
+
+.maketing-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+
+.header-centent h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.header-centent p{
+    margin-top: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.marketing-content p{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+    margin-left: -120px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+}
+
+.marketing-plan .plan-1 {
+    height: 237px;
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+    border-radius: 5px;
+}
+
+.marketing-plan .plan-1 h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFFFF;
+    line-height: 237px;
+}
+.marketing-plan .plan-2 .card{
+    width: 483px;
+    height: 340px;
+    background: #FFFFFF;
+    margin: auto;
+    margin-top: -50px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+}
+.marketing-plan .plan-2 .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+}
+/*establishing*/
+.establishing-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.establishing-header h1{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    
+}
+.establishing-header p{
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.establishing-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #555555;
+}
+.establishing-service a{
+    padding: 20px 80px;
+    border: 1px solid blueviolet;
+    border-radius: 10px ;
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 57px;
+    color: #000000;
+
+}
+.establishing-service .card{
+    width: 268px;
+    height: 250px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+}
+.establishing-service .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #555555;
+
+}
+/*sponsorship*/
+.sponsorship-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.sponsorship-header h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    
+}
+.sponsorship-header p{
+    margin-top: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.sponsorship-content h4{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    color: #060050;
+}
+.sponsorship-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #555555;
+}
+.sponsorship-card .card{
+    background: #FFFFFF;
+    /* gradient */
+
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+    border: none;
+}
+.sponsorship-card .card h2{ 
+    font-family: Asap;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #A9A9A9;
+} 
+.sponsorship-card .card p{ 
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #555555;
+} 
+/*public*/
+.public-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.public-header h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    
+}
+.public-header p{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.public-content h4{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    color: #060050;
+}
+.public-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #555555;
+}
+.public-card .card{
+    width: 270px;
+    height: 192px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 3px;;
+    border: none;
+}
+.public-card .card h2{ 
+    font-family: Asap;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #A9A9A9;
+} 
+.public-card .card p{ 
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #555555;
+}
+/*coustomer*/
+
+.coustomer-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.coustomer-header h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.coustomer-header p{
+    margin-top: 40px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.coustomer-content h4{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    color: #060050;
+
+}
+.coustomer-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+}
+.following a{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    color: #555555;
+    padding: 25px 50px;
+    border: 2px solid #555555;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.point-box .pointer img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+}
+.point-box .pointer p{
+    position: relative;
+    padding-left: 50px;
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #555555;
+}
+
+/*Consulting services*/
+.consulting-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.consulting-header h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.consulting-header p{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.consulting-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #555555;
+}
+.consulting-card .card{
+    width: 345px;
+    height: 158px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+}
+.consulting-card .card h2{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #C6C6C6;
+
+}
+.consulting-card .card h6{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    /* title */
+
+    color: #060050;
+}
+.consulting-card .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #555555;
+}
+.consulting-card-content h4{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #060050;
+
+}
+.study h6{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    color: #000000;
+
+}
+.study p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #555555;
+}
+.business-content h6{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #555555;
+}
+.business-content h2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 75px;
+    color: #060050;
+}
+/*planning*/
+
+.planning-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.planning-header h1{
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.planning-header p{
+    margin-top: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+
+.planning-card .card{
+    width: 345px;
+    height: 158px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+}
+.planning-card .card h2{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #C6C6C6;
+
+}
+.planning-card .card h6{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    /* title */
+
+    color: #060050;
+}
+.planning-card .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #555555;
+}
+.planning-pointer{
+
+    background: #F2F2F2;
+}
+.planning-pointer-box img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.planning-pointer-box p{
+    padding-left: 50px;
+    position: relative;
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #060050;
+}
+/* altarnetive */
+.altarnetive-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.altarnetive-header h1{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.altarnetive-header p{
+    margin-top: 90px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.altarnetive-banner h4{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 34px;
+    color: #060050;
+}
+.altarnetive-banner p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+
+}
+.alternative-card .card{
+    height: 181px;
+    width: 268px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+    transition: .5s;
+}
+.alternative-card .card:hover{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px
+}
+.alternative-card .card:hover p{
+    color: #FFFFFF;
+}
+.alternative-card .card p{
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #060050;
+}
+
+
+.alternative-card .card .upper img{
+    height: 50px;
+    width: 44.87266159057617px;
+
+}
+.alternative-card .card:hover .upper img{
+    display: none;
+}
+.alternative-card .card .lowwer img{
+    height: 50px;
+    width: 44.87266159057617px;
+    display: none;
+
+}
+.alternative-card .card:hover .lowwer img{
+    display: inline-block;
+}
+/* services */
+
+.service-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.service-header h1{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.service-header p{
+    margin-top: 90px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.loging-page{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%); 
+}
+.loging-page .card{
+    background: #FFFFFF;
+    box-shadow: 6px 32px 34px 1px rgba(0, 0, 0, 0.12);
+    border-radius: 7px;
+}  
+.loging-page .card h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #7E28A9;
+}
+.loging-page .card p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #555555;
+
+}
+.loging-page .card span{
+    font-weight: bold;
+
+}
+.loging-page .card input{
+    height: 60px;
+    background: #EFF6FF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 7px
+}
+.loging-page .card button{
+    background: #852EB2;
+    border-radius: 7px;
+    border: none;
+    padding: 15px 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+/* shopper */
+.shopper-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.shopper-header h1{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.shopper-header p{
+    margin-top: 90px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.shopper-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #555555;
+}
+/*  */
+
+.building-header{
+    background: linear-gradient(102.92deg, #1B1285 -36.3%, #643088 100%);
+}
+.building-header h1{
+    margin-top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+.building-header p{
+    margin-top: 90px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+.building-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+}
+.benefits h4{
+    border: 1px solid #555555;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-family: Asap Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 52px;
+    color: #555555;
+    display: inline-block;
+
+}
+.benefits .card{
+    width: 270px;
+    height: 523px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    border: none;
+    }
+.benefits .card img{
+   width: 94px;
+   height: 94px;
+   margin-left: 25%;
+  
+}
+.benefits .card img p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+    
+}
